@@ -1,6 +1,6 @@
 ## Hi there, we are Dasharo Team  👋
 
-![](images/dasharo-sygnet.png)
+![](https://raw.githubusercontent.com/Dasharo/.github/main/profile/images/dasharo-sygnet.png)
 
 We are builing Dasharo open-source firmware distribution focusing on clean and
 simple code, long-term maintenance, transparent validation, privacy-respecting
