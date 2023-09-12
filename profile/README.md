@@ -54,7 +54,7 @@ Stay tuned for our upcoming events:
 
 [View full calendar →](https://vpub.dasharo.com)
 
-## Our contribution
+## 👥 Our contribution
 
 We contribute to the project and tools 🔧 we rely on to build and run Dasharo:
 
