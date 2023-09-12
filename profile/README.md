@@ -87,7 +87,7 @@ We also maintain 🧙‍♂️ our own forks and open-source projects like:
 
 Dasharo public roadmap can be found [here](https://github.com/Dasharo/dasharo-issues/milestones).
 
-## How to contribute
+## 📘 How to contribute
 
 Please start in the [newcomer](https://docs.dasharo.com/#newcommers) section.
 
