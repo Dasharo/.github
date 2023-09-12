@@ -95,6 +95,30 @@ If you are familiar with open-source firmware you can try a [good first
 issue](https://github.com/Dasharo/dasharo-issues/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
 from the Dasharo issues repository.
 
+### :shopping: Where to Buy Dasharo-Enabled Hardware
+
+We are excited to announce that you can now purchase hardware enabled with
+Dasharo from the following sources:
+
+- **[3mdeb
+Shop](https://shop.3mdeb.com/product-category/dasharo-supported-hardware/)** -
+Discover desktop computers Dasharo’s capabilities. :star2:
+- **[Novacustom](https://configurelaptop.eu)** - Find custom laptop solutions
+empowered by Dasharo. :computer:
+- **[Protectli](https://protectli.com)** - Explore robust network appliance
+hardware options integrated with Dasharo for a secure experience. :shield:
+- **[Nitrokey](https://shop.nitrokey.com/shop/product/nitropc-pro-523)** -
+Delve into secure hardware solutions reinforced with Dasharo. :key:
+
+### :sparkles: Dasharo Entry Subscription
+
+To provide you with regular updates and enhanced support, we offer the Dasharo
+Entry Subscription for selected hardware. Subscribe to receive a range of
+benefits that help you maintain a secure and efficient system with ease. 
+
+**[Learn more about Dasharo Entry
+Subscription](https://shop.3mdeb.com/product-category/dasharo-entry-subscription/)**
+
 <!--
 
 **Here are some ideas to get you started:**
