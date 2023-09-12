@@ -4,20 +4,24 @@
 <img src="https://raw.githubusercontent.com/Dasharo/.github/main/profile/images/dasharo-sygnet.png" width="300" align=center/>
 </p>
 
-We are building Dasharo open-source firmware distribution focusing on clean and
-simple code, long-term maintenance, transparent validation, privacy-respecting
-implementation, liberty for the owners, and trustworthiness for all.
+Dasharo is a coreboot downstream which values open development, firmware
+resilience, platform security transparency, right to repair and digital
+sovereignty. Dasharo benefits from 3mdeb CI/CD, documentation and firmware
+optimization of more than half a million commercial units of x86 hardware with
+open-source firmware.
 
 Dasharo is a registered trademark and product developed by
 [3mdeb](https://github.com/3mdeb).
 
-Dasharo and related product services improved over **150k Intel-based
+Dasharo and related product services improved over **250k Intel-based
 platforms** and over **500k AMD-based platforms**. Together we contributed
-almost **40k lines of code** to various embedded firmware open-source projects.
+almost **50k lines of code** to various embedded firmware open-source projects.
 We also developed more than **20k lines of code** to support IBM POWER9-based
 Raptor Engineering Talos II in coreboot, which we are currently upstreaming.
 
-Since **March 2015** we provided **165** open-source firmware releases to the
+<!-- data checkpoint  13.09.2023 -->
+
+Since **March 2015** we provided **176** open-source firmware releases to the
 community.
 
 <!--
@@ -26,29 +30,29 @@ community.
 
 -->
 
-## Community importance
+## 🌍 Community
 
-We believe that friendly community and cooperation are key to building
-a thriving open-source firmware ecosystem. Because of that, we would like to
-invite you to:
+Become a part of the vibrant Dasharo community:
 
-* [Dashro Matrix Community](https://matrix.to/#/#dasharo:matrix.org) - where we
-  discuss recent news related to open-source and closed firmware, help select
-  hardware for porting, and provide support for Dasharo open-source firmware
-  distribution compatible hardware.
-* [Dasharo OSF vPub](https://vpub.dasharo.com/) - 3-4 times a year we organize
-  an online party to discuss recent achievements in open-source firmware,
-  open-source hardware, and open instruction set architecture. Feel free to
-  check the website about recent vPub plans or subscribe to the
-  [newsletter](https://newsletter.3mdeb.com/subscription/0_K65I7ro).
-* There are also upcoming Dasharo Community Calls, Virtual and Live Hackathons
-  as well as Live Coding sessions. If you would like to be informed about such
-  events and other Dasharo-related updates feel free to sign up for our
-  [newsletter](https://newsletter.3mdeb.com/subscription/wwL90UkXP).
-* We also care about education in the community by contributing to
-  [OpenSecurityTraining2](https://ost2.fyi/). Feel free to check our courses
-  [Arch4021: Introductory UEFI](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+4021_Intro_UEFI+2022_v1/about)
-  and [Arch4031: Introductory coreboot](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch4031_x86-64_RV_coreboot+2021_v1/about).
+- **Chat with Us**: Join the conversation in the [Dasharo Matrix
+  Workspace](https://matrix.to/#/#dasharo:matrix.org).
+- **Stay Updated**: Don't miss our quarterly [Dasharo
+  Events](https://vpub.dasharo.com/) featuring:
+    + **Dasharo User Group (DUG)**: A forum for Dasharo users to connect, share
+      experiences, and stay informed.
+    + **Dasharo Developers vPub**: A relaxed virtual meetup for developers and
+      enthusiasts to discuss, share, and connect.
+
+## 📅 Events Calendar
+
+Stay tuned for our upcoming events:
+
+- **September 28, 2023**: [Dasharo User Group #3 and Dasharo Developers vPub
+  0x8](https://vpub.dasharo.com/e/8/dasharo-user-group-3)
+- **October 6-8, 2023**: [Qubes OS Summit
+  2023](https://qubesos.3mdeb.com)
+
+[View full calendar →](https://vpub.dasharo.com)
 
 ## Our contribution
 
