@@ -1,7 +1,7 @@
 ## Hi there, we are Dasharo Team  👋
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Dasharo/.github/main/profile/images/dasharo-sygnet.png" width="300" align=center/>
+<img src="https://raw.githubusercontent.com/Dasharo/.github/main/profile/images/logo-bar.svg" width="300" align=center/>
 </p>
 
 Dasharo is a coreboot downstream which values open development, firmware
