@@ -47,10 +47,8 @@ Become a part of the vibrant Dasharo community:
 
 Stay tuned for our upcoming events:
 
-- **September 28, 2023**: [Dasharo User Group #3 and Dasharo Developers vPub
-  0x8](https://vpub.dasharo.com/e/8/dasharo-user-group-3)
-- **October 6-8, 2023**: [Qubes OS Summit
-  2023](https://qubesos.3mdeb.com)
+- **December 7, 2023**: [Dasharo User Group #4 and Dasharo Developers vPub
+  0x9](https://vpub.dasharo.com/e/10/dasharo-user-group-4)
 
 [View full calendar →](https://vpub.dasharo.com)
 
