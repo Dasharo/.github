@@ -1,4 +1,4 @@
-## Hi there, we are Dasharo Team  👋
+## Hi there, we are Dasharo Team 👋
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Dasharo/.github/main/profile/images/logo-bar.png" width="500" align=center/>
@@ -38,17 +38,21 @@ Become a part of the vibrant Dasharo community:
   Workspace](https://matrix.to/#/#dasharo:matrix.org).
 - **Stay Updated**: Don't miss our quarterly [Dasharo
   Events](https://vpub.dasharo.com/) featuring:
-    + **Dasharo User Group (DUG)**: A forum for Dasharo users to connect, share
-      experiences, and stay informed.
-    + **Dasharo Developers vPub**: A relaxed virtual meetup for developers and
-      enthusiasts to discuss, share, and connect.
+  - **Dasharo User Group (DUG)**: A forum for Dasharo users to connect, share
+    experiences, and stay informed.
+  - **Dasharo Developers vPub**: A relaxed virtual meetup for developers and
+    enthusiasts to discuss, share, and connect.
 
 ## 📅 Events Calendar
 
 Stay tuned for our upcoming events:
 
-- **December 7, 2023**: [Dasharo User Group #4 and Dasharo Developers vPub
-  0x9](https://vpub.dasharo.com/e/10/dasharo-user-group-4)
+- **April 8-10, 2024**: [FOSSASIA Summit 2024](https://eventyay.com/e/55d2a466/session/9138)
+- **December 12, 2024**: [Dasharo User Group #8 and Dasharo Developers vPub 0xD](https://vpub.dasharo.com/e/15/dasharo-user-group-8)
+- **June 13, 2024**: [Dasharo User Group #6 and Dasharo Developers vPub 0xB](https://vpub.dasharo.com/e/13/dasharo-user-group-6)
+- **June 4-6, 2024**: [Xen Project Summit](https://xenprojectsummit2024.sched.com/event/1bCFO/challenges-and-status-of-enabling-trenchboot-in-xen-hypervisor-michal-zygowski-piotr-krol-3mdeb)
+- **September 12, 2024**: [Dasharo User Group #7 and Dasharo Developers vPub 0xC](https://vpub.dasharo.com/e/14/dasharo-user-group-7)
+- **September 20-22, 2024**: [Qubes OS Summit 2024](https://vpub.dasharo.com/e/16/qubes-os-summit-2024)
 
 [View full calendar →](https://vpub.dasharo.com)
 
@@ -56,11 +60,11 @@ Stay tuned for our upcoming events:
 
 We contribute to the project and tools 🔧 we rely on to build and run Dasharo:
 
-* [coreboot](https://doc.coreboot.org/contributing/index.html)
-* [TrenchBoot](https://trenchboot.org/documentation/CONTRIBUTING/)
-* [OpenEmbedded](https://www.openembedded.org/wiki/How_to_submit_a_patch_to_OpenEmbedded)
-* [fwupd/LVFS](https://github.com/fwupd/fwupd)
-* [flashrom](https://www.flashrom.org/Development_Guidelines)
+- [coreboot](https://doc.coreboot.org/contributing/index.html)
+- [TrenchBoot](https://trenchboot.org/documentation/CONTRIBUTING/)
+- [OpenEmbedded](https://www.openembedded.org/wiki/How_to_submit_a_patch_to_OpenEmbedded)
+- [fwupd/LVFS](https://github.com/fwupd/fwupd)
+- [flashrom](https://www.flashrom.org/Development_Guidelines)
 
 <!--
 * [Tianocore EDKII](https://www.tianocore.org/contrib/)
@@ -68,20 +72,20 @@ We contribute to the project and tools 🔧 we rely on to build and run Dasharo:
 
 We also maintain 🧙‍♂️ our own forks and open-source projects like:
 
-* [Dasharo coreboot fork](https://github.com/Dasharo/coreboot)
-* [Dasharo EDKII fork](https://github.com/Dasharo/edk2)
-* [Dasharo flashrom fork](https://github.com/Dasharo/flashrom)
-* [Dasharo fork of System76 Open Source Embedded Controller](https://github.com/Dasharo/ec) 
+- [Dasharo coreboot fork](https://github.com/Dasharo/coreboot)
+- [Dasharo EDKII fork](https://github.com/Dasharo/edk2)
+- [Dasharo flashrom fork](https://github.com/Dasharo/flashrom)
+- [Dasharo fork of System76 Open Source Embedded Controller](https://github.com/Dasharo/ec)
   firmware.
-* [Dasharo documentation](https://github.com/Dasharo/docs)
-* [Dasharo open-source firmware validation](https://github.com/Dasharo/open-source-firmware-validation) 
+- [Dasharo documentation](https://github.com/Dasharo/docs)
+- [Dasharo open-source firmware validation](https://github.com/Dasharo/open-source-firmware-validation)
   scripts.
-* [DasharoModulePkg](https://github.com/Dasharo/DasharoModulePkg) - our EDKII
+- [DasharoModulePkg](https://github.com/Dasharo/DasharoModulePkg) - our EDKII
   package with additional features.
-* [Dasharo Tools Suite](https://github.com/Dasharo/meta-dts) - Yocto-based
+- [Dasharo Tools Suite](https://github.com/Dasharo/meta-dts) - Yocto-based
   Linux distribution that simplifies Dasharo initial deployment, update, and
   recovery.
-* And many others. [Please check](https://github.com/orgs/Dasharo/repositories).
+- And many others. [Please check](https://github.com/orgs/Dasharo/repositories).
 
 Dasharo public roadmap can be found [here](https://github.com/Dasharo/dasharo-issues/milestones).
 
@@ -99,20 +103,20 @@ We are excited to announce that you can now purchase hardware enabled with
 Dasharo from the following sources:
 
 - **[3mdeb
-Shop](https://shop.3mdeb.com/product-category/dasharo-supported-hardware/)** -
-Discover desktop computers Dasharo’s capabilities. :star2:
+  Shop](https://shop.3mdeb.com/product-category/dasharo-supported-hardware/)** -
+  Discover desktop computers Dasharo’s capabilities. :star2:
 - **[Novacustom](https://configurelaptop.eu)** - Find custom laptop solutions
-empowered by Dasharo. :computer:
+  empowered by Dasharo. :computer:
 - **[Protectli](https://protectli.com)** - Explore robust network appliance
-hardware options integrated with Dasharo for a secure experience. :shield:
+  hardware options integrated with Dasharo for a secure experience. :shield:
 - **[Nitrokey](https://shop.nitrokey.com/shop/product/nitropc-pro-523)** -
-Delve into secure hardware solutions reinforced with Dasharo. :key:
+  Delve into secure hardware solutions reinforced with Dasharo. :key:
 
 ### :sparkles: Dasharo Entry Subscription
 
 To provide you with regular updates and enhanced support, we offer the Dasharo
 Entry Subscription for selected hardware. Subscribe to receive a range of
-benefits that help you maintain a secure and efficient system with ease. 
+benefits that help you maintain a secure and efficient system with ease.
 
 **[Learn more about Dasharo Entry
 Subscription](https://shop.3mdeb.com/product-category/dasharo-entry-subscription/)**
