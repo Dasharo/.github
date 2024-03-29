@@ -19,10 +19,25 @@ almost **50k lines of code** to various embedded firmware open-source projects.
 We also developed more than **20k lines of code** to support IBM POWER9-based
 Raptor Engineering Talos II in coreboot, which we are currently upstreaming.
 
-<!-- data checkpoint  13.09.2023 -->
+<!-- data checkpoint  29.03.2024
 
-Since **March 2015** we provided **176** open-source firmware releases to the
-community.
+* PC Engines: 450
+  - go to https://pcengines.github.io/
+  - search for SHA256.sig - signature of release file
+* Dasharo releases: 64
+  - sum releases: https://github.com/Dasharo/presentations/blob/main/dasharo_roadmap.md#dasharo-releases-in-time
+
+* Test cases:
+  - just PC Engines results spreadsheet cover 32k+ tests
+  - Novacustom: 5k+
+  - Protectli: 1.7k
+  - KGPE-D16: 500
+  - Dasharo: 1.8k
+
+-->
+
+Since **March 2015** we provided over **500** open-source firmware releases to the
+community and executed over **40k** automated tests leveraging.
 
 <!--
 
