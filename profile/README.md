@@ -62,12 +62,14 @@ Become a part of the vibrant Dasharo community:
 
 Stay tuned for our upcoming events:
 
-- **April 8-10, 2024**: [FOSSASIA Summit 2024](https://eventyay.com/e/55d2a466/session/9138)
-- **December 12, 2024**: [Dasharo User Group #8 and Dasharo Developers vPub 0xD](https://vpub.dasharo.com/e/15/dasharo-user-group-8)
-- **June 13, 2024**: [Dasharo User Group #6 and Dasharo Developers vPub 0xB](https://vpub.dasharo.com/e/13/dasharo-user-group-6)
-- **June 4-6, 2024**: [Xen Project Summit](https://xenprojectsummit2024.sched.com/event/1bCFO/challenges-and-status-of-enabling-trenchboot-in-xen-hypervisor-michal-zygowski-piotr-krol-3mdeb)
 - **September 12, 2024**: [Dasharo User Group #7 and Dasharo Developers vPub 0xC](https://vpub.dasharo.com/e/14/dasharo-user-group-7)
 - **September 20-22, 2024**: [Qubes OS Summit 2024](https://vpub.dasharo.com/e/16/qubes-os-summit-2024)
+- **December 12, 2024**: [Dasharo User Group #8 and Dasharo Developers vPub 0xD](https://vpub.dasharo.com/e/15/dasharo-user-group-8)
+
+To stay informed about upcoming events roadmap please check last [Dasharo
+Community
+Status](https://www.youtube.com/results?search_query=%22Dasharo+Community+Status%22&sp=CAI%253D)
+or presentation [slides](https://dl.3mdeb.com/dasharo/dug/).
 
 [View full calendar →](https://vpub.dasharo.com)
 
@@ -127,14 +129,13 @@ Dasharo from the following sources:
 - **[Nitrokey](https://shop.nitrokey.com/shop/product/nitropc-pro-523)** -
   Delve into secure hardware solutions reinforced with Dasharo. :key:
 
-### :sparkles: Dasharo Entry Subscription
+### :sparkles: Dasharo Pro/Enterprise Package
 
 To provide you with regular updates and enhanced support, we offer the Dasharo
 Entry Subscription for selected hardware. Subscribe to receive a range of
 benefits that help you maintain a secure and efficient system with ease.
 
-**[Learn more about Dasharo Entry
-Subscription](https://shop.3mdeb.com/product-category/dasharo-entry-subscription/)**
+**[Learn more about Dasharo Pro/Enterprise Package](https://shop.3mdeb.com/product-category/dasharo-pro-package/)**
 
 <!--
 
