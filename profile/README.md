@@ -36,8 +36,8 @@ Raptor Engineering Talos II in coreboot, which we are currently upstreaming.
 
 -->
 
-Since **March 2015** we provided over **500** open-source firmware releases to the
-community and executed over **40k** automated tests leveraging.
+Since **March 2015** we provided over **500** open-source firmware releases to
+the community and executed over **40k** automated tests leveraging.
 
 <!--
 
@@ -60,12 +60,13 @@ Become a part of the vibrant Dasharo community:
 
 ## 📅 Events Calendar
 
-Stay up to date with our latest events by visiting our [3mdeb Events Page](https://3mdeb.com/events/), 
-where you'll find the most current schedule of upcoming activities.
+Stay up to date with our latest events by visiting our [3mdeb Events
+Page](https://3mdeb.com/events/), where you'll find the most current schedule of
+upcoming activities.
 
 For more details on our events roadmap, you can also check the latest [Dasharo
 Community
-Status](https://www.youtube.com/results?search_query=%22Dasharo+Community+Status%22&sp=CAI%253D) 
+Status](https://www.youtube.com/results?search_query=%22Dasharo+Community+Status%22&sp=CAI%253D)
 or view presentation [slides](https://dl.3mdeb.com/dasharo/dug/).
 
 [View full calendar →](https://vpub.dasharo.com)
@@ -89,8 +90,8 @@ We also maintain 🧙‍♂️ our own forks and open-source projects like:
 - [Dasharo coreboot fork](https://github.com/Dasharo/coreboot)
 - [Dasharo EDKII fork](https://github.com/Dasharo/edk2)
 - [Dasharo flashrom fork](https://github.com/Dasharo/flashrom)
-- [Dasharo fork of System76 Open Source Embedded Controller](https://github.com/Dasharo/ec)
-  firmware.
+- [Dasharo fork of System76 Open Source Embedded
+  Controller](https://github.com/Dasharo/ec) firmware.
 - [Dasharo documentation](https://github.com/Dasharo/docs)
 - [Dasharo open-source firmware validation](https://github.com/Dasharo/open-source-firmware-validation)
   scripts.
@@ -101,7 +102,8 @@ We also maintain 🧙‍♂️ our own forks and open-source projects like:
   recovery.
 - And many others. [Please check](https://github.com/orgs/Dasharo/repositories).
 
-Dasharo public roadmap can be found [here](https://github.com/Dasharo/dasharo-issues/milestones).
+Dasharo public roadmap can be found
+[here](https://github.com/Dasharo/dasharo-issues/milestones).
 
 ## 📘 How to contribute
 
