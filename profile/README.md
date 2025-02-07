@@ -62,9 +62,8 @@ Become a part of the vibrant Dasharo community:
 
 Stay tuned for our upcoming events:
 
-- **September 12, 2024**: [Dasharo User Group #7 and Dasharo Developers vPub 0xC](https://vpub.dasharo.com/e/14/dasharo-user-group-7)
-- **September 20-22, 2024**: [Qubes OS Summit 2024](https://vpub.dasharo.com/e/16/qubes-os-summit-2024)
-- **December 12, 2024**: [Dasharo User Group #8 and Dasharo Developers vPub 0xD](https://vpub.dasharo.com/e/15/dasharo-user-group-8)
+- **March 20, 2025**: [Dasharo User Group (DUG) #9 and Dasharo Developers vPub 0xE](https://vpub.dasharo.com/e/17/dasharo-user-group-9)
+- **June 12, 2025**: [Dasharo User Group (DUG) #10 and Dasharo Developers vPub 0xF](https://vpub.dasharo.com/e/18/dasharo-user-group-10)
 
 To stay informed about upcoming events roadmap please check last [Dasharo
 Community
