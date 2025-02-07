@@ -62,13 +62,13 @@ Become a part of the vibrant Dasharo community:
 
 Stay tuned for our upcoming events:
 
-- **March 20, 2025**: [Dasharo User Group (DUG) #9 and Dasharo Developers vPub 0xE](https://vpub.dasharo.com/e/17/dasharo-user-group-9)
-- **June 12, 2025**: [Dasharo User Group (DUG) #10 and Dasharo Developers vPub 0xF](https://vpub.dasharo.com/e/18/dasharo-user-group-10)
+Stay up to date with our latest events by visiting our [3mdeb Events Page](https://3mdeb.com/events/), 
+where you'll find the most current schedule of upcoming activities.
 
-To stay informed about upcoming events roadmap please check last [Dasharo
+For more details on our events roadmap, you can also check the latest Dasharo
 Community
-Status](https://www.youtube.com/results?search_query=%22Dasharo+Community+Status%22&sp=CAI%253D)
-or presentation [slides](https://dl.3mdeb.com/dasharo/dug/).
+Status](https://www.youtube.com/results?search_query=%22Dasharo+Community+Status%22&sp=CAI%253D) 
+or view presentation [slides](https://dl.3mdeb.com/dasharo/dug/).
 
 [View full calendar →](https://vpub.dasharo.com)
 
